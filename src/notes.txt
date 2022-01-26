@@ -1,0 +1,13 @@
+Image Resources:
+
+space tile: https://www.google.com/search?q=space+tile&tbm=isch&ved=2ahUKEwiYnNiZv8X1AhXi8bsIHVlFCzcQ2-cCegQIABAA&oq=space+tile&gs_lcp=CgNpbWcQAzIECAAQEzIECAAQEzIECAAQEzIECAAQEzIICAAQBRAeEBMyCAgAEAUQHhATMggIABAFEB4QEzIICAAQBRAeEBMyCAgAEAUQHhATMggIABAFEB4QEzoECAAQQzoICAAQgAQQsQM6BQgAEIAEOgcIABCxAxBDOgsIABCABBCxAxCDAToICAAQsQMQgwE6BAgAEB5Q_gZYtBRgyxZoAHAAeACAAV6IAYAHkgECMTGYAQCgAQGqAQtnd3Mtd2l6LWltZ8ABAQ&sclient=img&ei=fwrsYdjgNuLj7_UP2YqtuAM&bih=789&biw=1600&rlz=1C1GCEU_bgBG900BG900#imgrc=MVzoGTx-ZM2A9M
+
+spaceship: https://www.istockphoto.com/vector/ufo-with-lights-alien-space-ship-futuristic-unidentified-flying-object-world-ufo-gm1253430869-366049312
+
+present: https://www.kissclipart.com/present-box-clipart-gift-clip-art-y16nv8/
+
+mine: https://www.clipartmax.com/middle/m2i8m2d3m2Z5N4d3_nuclear-explosion-clipart-transparent-background-atomic-bomb-cli-part/
+
+heart symbols: https://en.wikipedia.org/wiki/Heart_symbol
+
+astronaut: https://store.line.me/themeshop/product/027c913c-5fd2-4a8d-8e74-e91195020be7/en?from=theme
